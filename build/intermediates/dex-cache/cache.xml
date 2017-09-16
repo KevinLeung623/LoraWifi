@@ -2,130 +2,130 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.3"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_c3cda367933b120a05b7a3903e3e6da5d018ccb7.jar" />
+        sha1="bef8303eb468c44eb37dcb65630edce5a896e52e">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1dfdf7880a49d280b9d95f87686088359e0fae43\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\wkku\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f47324d2d7e8cba5d450f64558ad11c15f3f4329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\c74b70c5da6893b70ad4ce79130d5b2cd2da5331\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02c967d9d2dae5bc1ef865f2b64142d5629685a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\100368b063a3cde4a8b51d2dc80a48a7d774cda7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ff73280783063ad2dae1e6065be17b4928ffda41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\bd571488e6fc2afc8f3f581209ca12b6e2c383c7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7315ce231eb8cb7e23a99a7b795313e43ff4cc60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\8fcd497abbd6950a0a4c5181cc42909eef036f94\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b1ec4a83de023933b24ce8d5e937febe1ac50bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\84abc56eba2b42187e0f467ff403cb5f9d30c462\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91bd149b73f4bf979f69f75b91ea2a6ead2884c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\7ab460ae13151ab2ce0624bff4c9f2a9d1fb65bc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d75ce5343ca2e207dd8db76d0048555ac420301a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\a5dfdb968b59996f375bd609db74b35a9563e458\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7931af528c75797a9b84c2886ed8f0eba0c236d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\92798e5b42f6e2541aa92830d329324450be03ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2edcd0c584ea54ac7493cebdec1856cdc224c73f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\540fc76394d089397607ef93b86b58c5dcafde81\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d9bedf1531bf12b816f4236d019b9d0a21908ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\.android\build-cache\4beca497865d1810d8601cdfd30d4713756d9eb3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fddbd342fb0d24cdd4d86819988d404904f542e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_69931f41802c90e7635e0ed22937578e235b4197\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.3"
         sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_293e8b1cce53c177cac80c402246bf5d69949de7\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\b32d28dad9dc5370ecb6fb6ceb9c54d3aab1a331\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_54891d8a2abe6ef69a5e064a7a78d0c16a225391.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\34440c81a3be5c098e0eadbb3991a5d25a2fd41f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_e573b4c72e81842f509d93ed7a07126f82bdacbd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\83793fde66a7c110f414fe2e9272596357b86d23\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_d9a1df02719e36868a76594395e1151b71f80a12.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\2abc0f2e44049c7ffdb51581b35ea3858b562f18\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_b2e446adf293cc8bf881e8c51c1fc4a88ce86ad4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\5d699bbf856d1d3c8fd44dd1efa8dd82c3a4c003\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_859e4b236a45c0b91f8630c25e89f02a64d33a77.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.3"
-        sha1="dd39069f3adefbbe6c2aeabe5da1800b782ae0f5">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f5861e326b10c6c2a65e5a71d3b314e59b59ca8c\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\b99d86154df2ae005994c53f68f921764d5803e7\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_86976ed53b104b7cb777cfab9443d0b7fe91f0b9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\289f1c06e135a411090bf357e4fed8856fcaccb1\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_557043c44b73850a7cd07d5e91cb917216462883.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\a646c8dd2074b1c6aa5df0ac4dd137378cde09b2\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_a7d7e41e39e9678b20fedad4cbec5f219b1cc7c3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\2967129cc8924d8f7afb173bcb6937c905450cbe\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_f3b8c6f45b7bb9f17c42a5d08b9c12d3e198eba9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\.android\build-cache\08581fd77e52594d7a8f8a63710cf4fdc092ee67\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\classes_25c071186188a022dfb4b7e09ba814cf6b594ca2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Kevin\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\Kevin\AndroidStudioProjects\Lorawifi\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_8f1ae2e49dbfca35ce2c2ee5cafc6182c59a9784.jar" />
+        <dex dex="C:\Users\wkku\Desktop\LoraWifi-master\LoraWifi-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_54fbb5aa25625ce638b7d5322cb0ec566eaa162f\classes.dex" />
     </item>
 
 </items>
